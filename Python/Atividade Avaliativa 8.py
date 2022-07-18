@@ -1,10 +1,13 @@
-Alunos = [ [ None for i in range (4) ] for j in range (2) ]
-AltF = NotasF = NotasM = Nasc = []
+Alunos = [ [ None for i in range (4) ] for j in range (20) ]
+NotasF = []
+NotasM = []
+AltF = []
+Nasc = []
 Cont1 = Cont2 = 0
 AltMaior = 0
 AltMenor = 5
 print("Insira as informações dos alunos: \n")
-for i in range (0,2):
+for i in range (20):
         Alunos[i][0] = float(input("Altura: "))
         Alunos[i][1] = int(input("Nota: "))
         Alunos[i][2] = int(input("Ano de nascimento: "))
@@ -20,7 +23,6 @@ for i in range (0,2):
                 NotasF.append(Alunos[i][1])
         Nasc.append(Alunos[i][2])
         print()
-print(f"{Alunos[i][3]}, {NotasM}, {AltF}, {NotasF}")
 Unicos = {}
 for i in Nasc: # Identifica Entradas Únicas
         if i not in Unicos:
