@@ -1,2 +1,2 @@
-# Lab
-Repositório da Disciplina de Laboratório de Programação | UFMT - Ciências da Computação
+# UFMT
+Repositório das Disciplinas de Programação | UFMT - Ciências da Computação
