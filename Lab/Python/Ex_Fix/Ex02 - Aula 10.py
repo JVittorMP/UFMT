@@ -1,3 +1,9 @@
+'''
+Faça um programa que leia a nota de 6 alunos, calcule a média dessa turma de
+alunos e mostre para o usuário a quantidade de alunos que estão acima da média
+da turma e a média dessa turma.
+'''
+
 total = 0
 cont = 0
 lista = []
