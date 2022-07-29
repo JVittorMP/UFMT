@@ -1,7 +1,8 @@
+# Verificação da Validade do CPF
+
 CPF = []
 soma = 0
-print("insira o CPF: ", end = "")
-str_CPF = input()
+str_CPF = input("insira o CPF: ")
 
 for i in str_CPF: # Transforma a Entrada em uma Lista
     CPF.append(i)
