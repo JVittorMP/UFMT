@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		real massa=62.0
@@ -18,7 +17,7 @@ programa
 		escreva("\n")
 
 		cadeia nome
-		nome= " Paulo"
+		nome = "Paulo"
 		escreva("Seja bem vindo,", nome, "!")
 		escreva("\n")
 
@@ -26,19 +25,6 @@ programa
 		escreva("\nInsira seu nome: ")
 		leia(nome)
 		escreva("Prazer em conhecê-lo, ", nome, ".")
-
 		
 	}
 }
-
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 400; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
