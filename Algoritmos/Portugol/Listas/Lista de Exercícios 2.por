@@ -4,7 +4,6 @@ programa
 	funcao inicio()
 	{
 		// Exercício 1
-		
 		inteiro N, Centena, Dezena, Unidade
 		escreva("\n")
 		escreva("Algoritmo 1: Cálculo do Consumo de Energia \n")
@@ -25,7 +24,6 @@ programa
 		escreva("\n")
 
 		// Exercício 2
-
 		inteiro Idade, Olhos
 		real Altura, Peso, Cintura, Busto, Quadril
 		cadeia Cabelo
@@ -79,7 +77,6 @@ programa
 		escreva("\n")
 
 		// Exercício 3
-
 		escreva("\n")
 		inteiro Dependentes
 		real SalFuncionario, SalMinimo, ImpBruto, ImpLiq, ImpPago
@@ -113,7 +110,6 @@ programa
 		escreva("\n")
 
 		// Exercício 4
-
 		escreva("\n")
 		escreva("Algoritmo 4: Quantidade de Medicamento \n")
 		escreva("Insira seu peso e idade abaixo:  \n")
@@ -140,7 +136,6 @@ programa
 		escreva("\n")
 
 		// Exercício 5
-
 		inteiro N1, N2, N3
 		escreva("\n")
 		escreva("Algoritmo 5: Algoritmo de Ordem Crescente \n")
@@ -163,7 +158,6 @@ programa
 		escreva("\n")
 		
 		// Exercício 6
-		
 		cadeia NomePais, Nome1, Nome2, Nome3
 		inteiro Con, Ouro, Prata, Bronze, P1, P2, P3
 		P1 = 0
@@ -221,7 +215,6 @@ programa
 		escreva("\n")
 		
 		// Exercício 7
-		
 		escreva("\n")
 		inteiro N4
 		escreva("Algoritmo 7: Seleção dos Múltiplos de 3 e 4 \n")
@@ -242,7 +235,6 @@ programa
 		escreva("\n")
 
 		// Exercícia 8
-
 		escreva("\n")
 		inteiro Nasc, Ano
 		escreva("Algoritmo 8: Idade Elegível para Votação e CNH \n")
@@ -263,7 +255,6 @@ programa
 		escreva("\n")
 
 		// Exercício 9
-
 		escreva("\n")
 		inteiro A, B
 		escreva("Algoritmo 9: Algoritmo de Troca Sem Variável Auxiliar \n")
@@ -277,7 +268,6 @@ programa
 		escreva("\n")
 
 		// Exercício 10
-		
 		escreva("\n")
 		escreva("Algoritmo 5: Algoritmo de Ordem Crescente \n")
 		escreva("Insira 3 números: \n")
@@ -299,14 +289,3 @@ programa
 		escreva("\n")
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 7738; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
