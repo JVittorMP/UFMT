@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		inteiro N1, N2, S1
@@ -69,7 +68,6 @@ programa
 
 		escreva("\nInsira o produto entre ", N3, " e ", N4, ": ")
 		leia(M2)
-
 		se(M2==60)
 		{
 			escreva("Parabéns, a resposta está correta!")
