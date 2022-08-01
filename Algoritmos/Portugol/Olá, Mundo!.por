@@ -1,6 +1,5 @@
 programa
 {
-	
 	funcao inicio()
 	{
 		real massa=62.0
@@ -25,8 +24,6 @@ programa
 		escreva("\nSeja bem vindo ao Ambiente de Testes!")
 		escreva("\nInsira seu nome: ")
 		leia(nome)
-		escreva("Prazer em conhecê-lo, ", nome, ".")
-
-		
+		escreva("Prazer em conhecê-lo, ", nome, ".")	
 	}
 }
