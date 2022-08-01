@@ -1,6 +1,28 @@
 #include <stdio.h>
+#include <windows.h>
+#include <stdlib.h>
+
+void T1();
+void T2();
 
 int main(){
+    int op;
+    SetConsoleOutputCP(65001);
+    printf("1 - Teste 1 \n2 - Teste 2\n\n");
+    printf("Qual Exercício Deseja Acessar? ");
+    scanf(" %d", &op);
+    system("cls");
+    switch(op){
+        case(1):
+            T1();
+            break;
+        case(2):
+            T2();
+            break;
+    }
+}
+
+void T1(){
     // Teste 1
     int m, n, o;
     char cidade[100];
@@ -13,7 +35,7 @@ int main(){
     printf("A cidade e %s \n", cidade);
 }
 
-int main(){
+void T2(){
     // Teste 2
     int idade;
     char nome[100], CPF[15];
