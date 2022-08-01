@@ -9,7 +9,6 @@ programa
 	funcao Ex1()
 	{
 		// Exercício 1
-
 		inteiro Elementos[50]
 		inteiro Maior
 		escreva("Algortimo 1: Determinar o Maior Elemento Dentro de um Vetor \n")
@@ -31,7 +30,6 @@ programa
 	funcao Ex2()
 	{
 		// Exercício 2
-
 		inteiro Elementos[10]
 		inteiro SPar, SImp
 		escreva("Algoritmo 2: Somar Números Pares e ímpares Individualmente \n")
@@ -60,7 +58,6 @@ programa
 	funcao Ex3()
 	{
 		// Exercício 3
-
 		inteiro Vetor1[6], Vetor2[6], Soma[6]
 		escreva("Algoritmo 3: Soma dos Elementos Equivalentes \n")
 		escreva("Insira 6 valores inteiros para cada conjunto abaixo: \n")
@@ -91,7 +88,6 @@ programa
 	funcao Ex4()
 	{
 		// Exercício 4
-
 		inteiro Vetor1[6], Vetor2[6], Soma[6]
 		escreva("Algoritmo 4: Soma dos Elementos Opostos \n")
 		escreva("Insira 6 valores inteiros para cada conjunto abaixo: \n")
@@ -122,7 +118,6 @@ programa
 	funcao Ex5()
 	{
 		// Exercício 5
-
 		cadeia Times[3]
 		escreva("Algoritmo 5: Tabela de Partídas de Futebol \n")
 		escreva("\n")
@@ -153,7 +148,6 @@ programa
 	funcao Ex6()
 	{
 		// Exercício 6
-
 		caracter Gabarito[5], Respostas[5]
 		cadeia Alunos[3]
 		real Notas[3], NotaTotal, MediaTurma
@@ -210,7 +204,6 @@ programa
 	funcao Ex7()
 	{
 		// Exercício 7
-	
 		real Altura[50], TotAltM, MaiorAlt, MediaAltM
 		inteiro Sexo[50], Quantidade
 		escreva("Algoritmo 7: Mecanismo de Avaliação da Altura \n")
@@ -260,7 +253,6 @@ programa
 	funcao Ex8()
 	{
 		// Exercício 8
-
 		real raiz[15], Aux
 		escreva("Algoritmo 8: Raiz Quadrada dos Valores Inseridos \n")
 		escreva("Insira 15 valores: \n")
@@ -292,7 +284,6 @@ programa
 	funcao Ex9()
 	{
 		// Exercício 9
-
 		inteiro fib[50], cont
 		escreva("Algoritmo 9: Impressão da Sequência de Fibonacci \n")
 		escreva("\n")
