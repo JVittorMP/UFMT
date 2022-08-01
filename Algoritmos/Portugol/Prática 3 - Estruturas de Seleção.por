@@ -44,7 +44,7 @@ programa
 		}
 		escreva("\n")
 
-		// As variáveis P (peso) e A (Altura foram declaradas anteriormente)
+		// As variáveis P (peso) e A (Altura) foram declaradas anteriormente
 		real IMC
 		escreva("\n")
 		escreva("Algoritmo de Cálculo do IMC\n")
@@ -70,7 +70,7 @@ programa
 			escreva("Sua condição corporal se encaixa no padrão de obesidade")
 		}
 		escreva("\n")
-
+		
 		inteiro NumA, NumB
 		real RA, RB
 		escreva("\n")
@@ -198,14 +198,3 @@ programa
 		escreva("\n")
 	}
 }
-/* $$$ Portugol Studio $$$ 
- * 
- * Esta seção do arquivo guarda informações do Portugol Studio.
- * Você pode apagá-la se estiver utilizando outro editor.
- * 
- * @POSICAO-CURSOR = 3996; 
- * @PONTOS-DE-PARADA = ;
- * @SIMBOLOS-INSPECIONADOS = ;
- * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
- * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
- */
