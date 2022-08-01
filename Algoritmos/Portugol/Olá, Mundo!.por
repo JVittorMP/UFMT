@@ -17,7 +17,7 @@ programa
 		escreva("\n")
 
 		cadeia nome
-		nome= " Paulo"
+		nome= "Paulo"
 		escreva("Seja bem vindo,", nome, "!")
 		escreva("\n")
 
